@@ -12,9 +12,9 @@ cd ~ ; mkdir company; cd company; mkdir /tmp/company.backups;
 
 - Create another cron job that will run every 3 minute. Each time the job runs it will bundle and compress the company folder then it will move the compressed folder to /tmp/company.backups . 
 
-## Submission
+## Submission:
 
 - After finishing the task take screen shot of the /tmp/company.backups .
 - Then decompress one of the backups folders then take screen shot of the content of the decompressed folder.
 - Then take screen shot of the two cron jobs.
-- Then upload the 4 pictures to the forked repo and then create a pull request.
+- Then upload the 3 pictures to the forked repo and then create a pull request.
