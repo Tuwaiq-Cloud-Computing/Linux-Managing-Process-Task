@@ -23,6 +23,7 @@ cd ~ ; mkdir company; cd company; mkdir /tmp/company.backups;
 
 ![image](https://user-images.githubusercontent.com/26005476/196201746-b942ac93-ea19-44b5-a050-9d5969496684.png)
 
-![image](https://user-images.githubusercontent.com/26005476/196201782-6639ccac-054c-4583-9e8c-5117e1b310b8.png)
-
 ![image](https://user-images.githubusercontent.com/26005476/196201708-1fa26c0e-f31d-4962-8220-87d33a40d865.png)
+
+![image](https://user-images.githubusercontent.com/26005476/196264606-51ca4b36-c4a2-41e4-8c50-a8f97a03ac03.png)
+
