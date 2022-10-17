@@ -18,3 +18,11 @@ cd ~ ; mkdir company; cd company; mkdir /tmp/company.backups;
 - Then decompress one of the backups folders then take screen shot of the content of the decompressed folder.
 - Then take screen shot of the two cron jobs.
 - Then upload the 3 pictures to the forked repo and then create a pull request.
+
+![image](https://user-images.githubusercontent.com/26005476/196201777-2d5c59c4-c945-4311-a8fb-71df7da2b0bd.png)
+
+![image](https://user-images.githubusercontent.com/26005476/196201746-b942ac93-ea19-44b5-a050-9d5969496684.png)
+
+![image](https://user-images.githubusercontent.com/26005476/196201782-6639ccac-054c-4583-9e8c-5117e1b310b8.png)
+
+![image](https://user-images.githubusercontent.com/26005476/196201708-1fa26c0e-f31d-4962-8220-87d33a40d865.png)
