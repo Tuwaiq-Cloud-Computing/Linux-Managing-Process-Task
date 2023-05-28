@@ -3,7 +3,7 @@
 ## Setup:
 
 In **kali** user run these commands <br/>
-cd ~ ; mkdir company; cd company; mkdir /tmp/company.backups; 
+cd /home ; mkdir company; cd company; mkdir /tmp/company.backups;
 
 
 ## Tasks:
