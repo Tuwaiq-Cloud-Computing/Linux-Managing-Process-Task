@@ -2,7 +2,6 @@
 
 ## Setup:
 
-run these commands <br/>
 cd /home ; mkdir company; cd company; mkdir /tmp/company.backups;
 
 
